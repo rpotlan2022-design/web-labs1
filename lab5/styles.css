@@ -28,6 +28,8 @@ header#hero_container {
     }
 }
 
+
+
 @media (max-width: 767px) { 
     .news-grid {
         grid-template-columns: 1fr;
